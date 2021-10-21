@@ -6,4 +6,5 @@ The order of the project is as follows:
 2) Fashion-MNIST notebook
 3) Cats vs Dogs notebook
 4) Hands Classification notebook  
+
 I believe my growth during the project is represented in my work.
